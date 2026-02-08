@@ -21,4 +21,15 @@ This project is a HR Analytics case study performed using Python in Jupyter Note
 - Matplotlib: Visualization of trends and distributions
 - Seaborn: Statistical plots for detailed insight exploration
 
+## Data Preparation and Understanding 
+Before solving the business questions, several preprocessing steps were performed to ensure the dataset was accurate and ready for analysis:
+- Imported the dataset and reviewed its structure, dimensions, and data types
+- Checked for missing values, duplicate records, and inconsistent entries
+- Standardized categorical fields such as employee status and work mode
+- Converted key variables like salary and years of experience into numeric formats
+- Used descriptive statistics to understand distributions and core HR metrics
+- Applied grouping and aggregation techniques for department- and role-level insights
+- Conducted initial visual exploration to identify trends prior to deeper analysis
+These Data cleaning steps ensured a clean and reliable people data for the further analysis.
+
 
