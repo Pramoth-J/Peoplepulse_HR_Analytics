@@ -15,3 +15,10 @@ To leverage HR data by answering critical questions and providing business insig
 ## Description
 This project is a HR Analytics case study performed using Python in Jupyter Notebook. The analysis focuses on understanding employee workforce trends through exploratory data analysis, data cleaning, and visualization. 15 real-world HR business problems were solved through data manipulation and visual storytelling, making this project a strong demonstration of practical analytics skills applied to HR data
 
+## Tools Used
+- Python Jupyter Notebook
+- Pandas: Data cleaning, manipulation, aggregation
+- Matplotlib: Visualization of trends and distributions
+- Seaborn: Statistical plots for detailed insight exploration
+
+
