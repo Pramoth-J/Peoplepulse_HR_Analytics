@@ -32,4 +32,24 @@ Before solving the business questions, several preprocessing steps were performe
 - Conducted initial visual exploration to identify trends prior to deeper analysis
 These Data cleaning steps ensured a clean and reliable people data for the further analysis.
 
+## Business Insights - Decision Making
+As part of the HR analytics the project addresses 15 workforce business questions designed to support strategic decision-making for HR and leadership teams.
+1) Employee Status Distribution - Looked at the workforce distribution of Active, Resigned, Retired, and Terminated employees.
+2) Work Mode Analysis (Remote vs On-site) - Examined employee distribution by work arrangement to understand the attendance compliance
+3) Department Wise Workforce Allocation - Identified staffing levels across departments to clarify organizational structure.
+4) Compensation Trends by Department - Studied average salary patterns to help with pay equity and budgeting decisions.
+5) Highest Paying Job Roles - Found the top-paying job titles to showcase compensation standards.
+6) Role Based Salary Comparison Across Departments - Explored how job titles affect salary differences within departments.
+7) Attrition Patterns by Department - Investigated resignation and termination rates to compare the attrition rate between departments
+8) Salary Growth vs Experience - Examined the years of experience and salary growth trends
+9) Performance Rating Trends Across Departments - Compared performance averages at the department level to assist with talent evaluation.
+10) Employee Concentration by Country - Analyzed workforce distribution by geography for global workforce planning.
+11) Top Employee Locations - Identified the locations with the highest employee presence for operational insights.
+12) Job Titles with Highest Resignation Rates - Highlighted roles most affected by turnover to focus on retention.
+13) Education Level Impact on Salary - Examined if higher education connects with differences in compensation.
+14) Salary Distribution by Work Mode - Compared salary trends between remote and on-site employees.
+15) Experience Distribution Across Departments - Assessed seniority levels in departments to aid workforce development planning.
+
+
+
 
