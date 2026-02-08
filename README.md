@@ -50,6 +50,15 @@ As part of the HR analytics the project addresses 15 workforce business question
 14) Salary Distribution by Work Mode - Compared salary trends between remote and on-site employees.
 15) Experience Distribution Across Departments - Assessed seniority levels in departments to aid workforce development planning.
 
+## End Results Achieved 
+The following outcomes were achieved by the end of this project:
+- Built a structured HR analytics workflow in Python, covering data cleaning, exploratory analysis, and insight generation.
+- Solved 15 practical HR business questions focused on attrition, performance, salary trends, and workforce distribution.
+- Compared departments and job roles to support compensation analysis and talent evaluation.
+- Identified areas with higher employee turnover using resignation and termination patterns.
+- Created clear and meaningful visualizations using Matplotlib and Seaborn to communicate key trends.
+- Delivered a portfolio-ready HR case study that demonstrates real-world, business-focused analytical skills.
+
 
 
 
