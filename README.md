@@ -51,13 +51,17 @@ As part of the HR analytics the project addresses 15 workforce business question
 15) Experience Distribution Across Departments - Assessed seniority levels in departments to aid workforce development planning.
 
 ## End Results Achieved 
-The following outcomes were achieved by the end of this project:
-- Built a structured HR analytics workflow in Python, covering data cleaning, exploratory analysis, and insight generation.
-- Solved 15 practical HR business questions focused on attrition, performance, salary trends, and workforce distribution.
-- Compared departments and job roles to support compensation analysis and talent evaluation.
-- Identified areas with higher employee turnover using resignation and termination patterns.
-- Created clear and meaningful visualizations using Matplotlib and Seaborn to communicate key trends.
-- Delivered a portfolio-ready HR case study that demonstrates real-world, business-focused analytical skills.
+1) Comprehensive HR Data Analytics
+- Analysed an HR dataset containing [X]+ employee records across [Y] departments and [Z] job roles using Python.
+- Performed data cleaning and preparation by addressing missing values, standardizing key attributes, and ensuring consistency for analysis.
+- Developed a workflow combining preprocessing, exploratory data analysis, and insight generation.
+
+2) Data Visualization
+- Created visualizations using Matplotlib and Seaborn to showcase key metrics that can be presented for strategy meetings
+
+3) Decision Making
+- Solved 15 HR business problems focused on workforce distribution, salary trends, performance patterns, and attrition behavior.
+- Provided insights for the leadership teams to make data driven decisions.
 
 
 
